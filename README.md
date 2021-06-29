@@ -1,5 +1,7 @@
 # Project-Login
- > Formulário simples criado com objetivo de melhorar minhas habilidades no html e css.
+
+   <img src="assets/login.png" alt="login">
+ > Interface de login para aplicativo, criado com objetivo de melhorar minhas habilidades no html e css.
 
 ### Ajustes e melhorias
 
